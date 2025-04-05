@@ -11,6 +11,7 @@
 ###
 
 <p align="left">💻 Full Stack Developer crafting clean, scalable web applications  <br> 🧠 Always learning — currently diving deeper into Azure & NextJS <br> 🎯 Goals: Build meaningful products, contribute to impactful communities, and grow as a developer and person  <br> 🧩 Fun fact: I'm faster at debugging than at running</p>
+<p align="left">👨‍💼 Currently Working as a <strong>Junior Development Consultant</strong> @Ferranti Computer Systems N.V, where I am developing the <strong>MECOMS MEEP</strong> platform in c#.</p>
 
 ###
 
